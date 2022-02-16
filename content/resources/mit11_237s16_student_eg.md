@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Example of student work for a narrative analysis assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-237-practice-of-participatory-action-research-par-spring-2016/ca75af2131aef3f7856e17a1ba9c397f_MIT11_237S16_Student_eg.pdf
+file: /media/courses/11-237-practice-of-participatory-action-research-par-spring-2016/ca75af2131aef3f7856e17a1ba9c397f_MIT11_237S16_Student_eg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Narrative Analysis Student Example
 uid: ca75af21-31ae-f3f7-856e-17a1ba9c397f

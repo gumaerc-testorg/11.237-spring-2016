@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6223e900-6c1c-e4f5-965c-6d2f280ee008
 ---
@@ -27,7 +30,7 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1: Defining PAR
 {{< tdclose >}}
 {{< tdopen >}}
@@ -68,7 +71,7 @@ Think free Tv. " [Dr. Quantum's Double Slit Experiment](https://www.youtube.com/
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2: Case Study Method, Data Gathering, Strategies and Principles of PAR
 {{< tdclose >}}
 {{< tdopen >}}
@@ -95,7 +98,7 @@ Ragin, Charles C., and Howard Saul Becker. Chapter 4 in _What Is A Case?: Explor
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3: Narrative Analysis & Knowledge Co-Production; Ethical Implications
 {{< tdclose >}}
 {{< tdopen >}}
@@ -136,7 +139,7 @@ Goodnough, Karen. "[Dealing with Messiness and Uncertainty in Practitioner Resea
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4: Reflective Practice
 {{< tdclose >}}
 {{< tdopen >}}
@@ -163,7 +166,7 @@ Students should view the [Videos on Reflective Practice](http://www.hapyak.com/p
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5: Case Analyses–Student Presentations
 {{< tdclose >}}
 {{< tdopen >}}
