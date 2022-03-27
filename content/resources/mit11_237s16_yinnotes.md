@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6223e900-6c1c-e4f5-965c-6d2f280ee008
 resourcetype: Document
 title: Notes on Case Study Method from Yin, Chapter 1
 uid: 639123ca-7074-fcca-0b80-a128ff72639c

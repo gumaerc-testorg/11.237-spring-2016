@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6223e900-6c1c-e4f5-965c-6d2f280ee008
 resourcetype: Document
 title: Notes on Greenwood and Levin
 uid: 29b8b94c-556e-d0fe-c9a6-258cc4240807

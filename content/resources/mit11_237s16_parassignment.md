@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4da9ca2-e0aa-8c87-d7b7-e88a66210f8a
 resourcetype: Document
 title: PAR Case Study
 uid: 7a4f4255-15fc-cfcf-a78f-5e41b3c299e0

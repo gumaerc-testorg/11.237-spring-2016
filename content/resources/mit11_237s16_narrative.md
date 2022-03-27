@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4da9ca2-e0aa-8c87-d7b7-e88a66210f8a
 resourcetype: Document
 title: Narrative Analysis Handout
 uid: bcf43f6c-6429-70d8-02b3-7883f6a7c328

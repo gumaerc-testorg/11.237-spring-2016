@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4da9ca2-e0aa-8c87-d7b7-e88a66210f8a
 resourcetype: Document
 title: Narrative Analysis Student Example
 uid: ca75af21-31ae-f3f7-856e-17a1ba9c397f
