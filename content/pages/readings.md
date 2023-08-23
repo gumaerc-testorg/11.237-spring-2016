@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information about the readings for class.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -60,7 +61,7 @@ Singleton Jr, Royce A., Bruce C. Straits, et al. Chapter 2 in _Approaches to Soc
 
 Greenwood, Davydd J., and Morten Levin. Chapters 4 and 5 in _Introduction to Action Research: Social Research for Social Change_. SAGE Publications, 2006. ISBN: 9781412925976. \[Preview with [Google Books](http://books.google.com/books?id=PdtFBQAAQBAJ&pg=PAfrontcover)\]
 
-[Notes on Greenwood and Levin (PDF)]({{< baseurl >}}/resources/mit11_237s16_greenwood)
+{{% resource_link 29b8b94c-556e-d0fe-c9a6-258cc4240807 "Notes on Greenwood and Levin (PDF)" %}}
 
 Flyvbjerg, Bent. Chapters 6 and 9 in _Making Social Science Matter: Why Social Inquiry Fails and How It Can Succeed Again_. Cambridge University Press, 2001. ISBN: 9780521775687. \[Preview with [Google Books](http://books.google.com/books?id=yVBXPf50EV0C&pg=PA66=onepage)\]
 
@@ -82,7 +83,7 @@ Think free Tv. " [Dr. Quantum's Double Slit Experiment](https://www.youtube.com/
 
 Yin, Robert K. Chapters 1 and 2 in Case Study Research: Design and Methods. SAGE Publications, 2013, pp. 57–76. ISBN: 9781452242569. \[Preview with [Google Books](http://books.google.com/books?id=OgyqBAAAQBAJ&pg=PAfrontcover)\]
 
-[Notes on Case Study Method from Yin, Chapter 1 (PDF)]({{< baseurl >}}/resources/mit11_237s16_yinnotes)
+{{% resource_link 639123ca-7074-fcca-0b80-a128ff72639c "Notes on Case Study Method from Yin, Chapter 1 (PDF)" %}}
 
 
 {{< tdclose >}}

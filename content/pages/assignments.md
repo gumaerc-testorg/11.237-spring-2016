@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on reading response assignments, a
+  narrative analysis assignment, and a participatory action research assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ In advance of each class session, students are required to post a one or two par
 Assignment 1
 ------------
 
-[Narrative Analysis (PDF)]({{< baseurl >}}/resources/mit11_237s16_narrative)
+{{% resource_link bcf43f6c-6429-70d8-02b3-7883f6a7c328 "Narrative Analysis (PDF)" %}}
 
 Students must complete a narrative analysis in week 3. Students are free to choose whatever narrative context they prefer; if nothing comes to mind, we suggest building on one of the following:
 
@@ -25,12 +27,12 @@ Students must complete a narrative analysis in week 3. Students are free to choo
 
 ### MIT Student Example (used with permission)
 
-[Narrative Analysis: Persepolis (PDF)]({{< baseurl >}}/resources/mit11_237s16_student_eg)
+{{% resource_link ca75af21-31ae-f3f7-856e-17a1ba9c397f "Narrative Analysis: Persepolis (PDF)" %}}
 
 Assignment 2
 ------------
 
-[PAR Case Study (PDF)]({{< baseurl >}}/resources/mit11_237s16_parassignment)
+{{% resource_link 7a4f4255-15fc-cfcf-a78f-5e41b3c299e0 "PAR Case Study (PDF)" %}}
 
 In the final two weeks of the course (weeks 5 and 6), students will be asked to prepare and present detailed analyses of an actual PAR case, with a particular focus on the methods used to gather and analyze data, the ways in which findings were validated and the ways in which the ethical dilemmas discussed in class were handled.
 
