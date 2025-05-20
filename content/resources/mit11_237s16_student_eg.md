@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for a narrative analysis assignment.
-file: /ol-ocw-studio-app/courses/11-237-practice-of-participatory-action-research-par-spring-2016/ca75af2131aef3f7856e17a1ba9c397f_MIT11_237S16_Student_eg.pdf
+file: /courses/11-237-practice-of-participatory-action-research-par-spring-2016/ca75af2131aef3f7856e17a1ba9c397f_MIT11_237S16_Student_eg.pdf
 file_size: 584436
 file_type: application/pdf
 learning_resource_types:
