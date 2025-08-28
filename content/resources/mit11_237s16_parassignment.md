@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Participatory action research case study assignment.
-file: /courses/11-237-practice-of-participatory-action-research-par-spring-2016/7a4f425515fccfcfa78f5e41b3c299e0_MIT11_237S16_PARAssignment.pdf
+file: /ol-ocw-studio-app/courses/11-237-practice-of-participatory-action-research-par-spring-2016/7a4f425515fccfcfa78f5e41b3c299e0_MIT11_237S16_PARAssignment.pdf
 file_size: 127979
 file_type: application/pdf
 learning_resource_types:
