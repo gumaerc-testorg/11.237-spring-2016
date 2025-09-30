@@ -72,7 +72,7 @@ Class 6: We will examine the Public Science Project's PAR map and look closely a
 
 Class 7: The skills of reflection are a crucial part of any PAR practitioner's toolkit. The PAR practitioner must be able to turn the beam of observation back on herself to better understand her own role and responsibilities in efforts to bring about social justice.
 
-Class 8: Continued from above. Students should view the [videos on reflective practice](http://www.hapyak.com/portal/viewer/01aeb0d6210f32983b92cba6d3ebc573) produced by CoLab. We will try to summarize the tools of reflection that PAR practitioners can and should use.
+Class 8: Continued from above. Students should view the {{% resource_link "d34af271-8807-40df-bfaa-8cc2a7e35cfb" "videos on reflective practice" %}} produced by CoLab. We will try to summarize the tools of reflection that PAR practitioners can and should use.
 
 
 {{< tdclose >}}
