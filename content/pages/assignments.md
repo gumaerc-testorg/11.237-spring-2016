@@ -36,4 +36,4 @@ Assignment 2
 
 In the final two weeks of the course (weeks 5 and 6), students will be asked to prepare and present detailed analyses of an actual PAR case, with a particular focus on the methods used to gather and analyze data, the ways in which findings were validated and the ways in which the ethical dilemmas discussed in class were handled.
 
-Additional student examples from previous versions of this course can be found on the [Participatory Action Research at MIT](https://actionresearch.mit.edu/par-workbook) website.
+Additional student examples from previous versions of this course can be found on the {{% resource_link "23fe18b4-f975-4cd1-8d91-d3ceabdc7db5" "Participatory Action Research at MIT" %}} website.
